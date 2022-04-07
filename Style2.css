@@ -1,0 +1,31 @@
+body{
+    background-color: #f3ac3c;
+}
+.container{
+    display:grid ;
+    width: 200px; 
+    height: 200px ;
+    background-color: #1A4341;
+    margin-left: 100px;
+    margin: 500px;
+    position: absolute;
+   padding: 0px;
+
+    }
+.header{
+    width: 100px;
+    height: 100px;
+    background-color: #998235 ;
+    margin-left: 50px;
+    position: absolute;
+    bottom: 0px;
+    
+}
+.footer{
+    width: 50px;
+    height: 50px;
+    background-color: #f3ac3c;
+    margin-left: 25px;
+    position: absolute;
+    bottom: 0px;
+}
